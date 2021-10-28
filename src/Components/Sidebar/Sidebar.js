@@ -11,7 +11,8 @@ export default function Sidebar() {
 className="card"
 style={{
 backgroundColor:'white',
-borderColor: '#333'
+borderColor: '#333',
+marginTop: '15%',
 }}
 >
 <CardBody className="cardbody">
@@ -27,7 +28,8 @@ borderColor: '#333'
 className="card"
 style={{
 backgroundColor:'white',
-borderColor: '#333'
+borderColor: '#333',
+
 }}
 >
 <CardTitle tag="h2" style={{textAlign: 'center'}} >View Toggle</CardTitle>
