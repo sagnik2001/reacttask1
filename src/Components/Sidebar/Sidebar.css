@@ -1,0 +1,22 @@
+.Sidebar{
+  height:100%;
+  width:20vw;
+  background-color:#E8EFF5;
+    box-shadow: -5px 4px 4px 4px rgb(0 0 0 / 20%), 4px 4px 1px 2px rgb(0 0 0 / 14%), 3px 1px 3px 3px rgb(0 0 0 / 12%)!important;
+}
+.icon{
+   border-radius: 50%;
+   height:auto !important;
+   width:20% !important;
+}
+.cardbody{
+  display:flex !important;
+}
+.profile{
+  margin-left:10% !important;
+
+}
+.card{
+    box-shadow: -5px 2px 6px 3px rgb(0 0 0 / 20%), 0px -1px 1px 2px rgb(0 0 0 / 14%), 3px 1px 3px 4px rgb(0 0 0 / 12%)!important;
+    margin-bottom:15%;
+}
