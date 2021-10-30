@@ -1,0 +1,26 @@
+.post{
+  margin: 6% !important;
+
+}
+table {
+    border-collapse: separate !important;
+    border-spacing: 10 1em !important;
+    border: 2px solid white !important;
+    border-radius: 15px !important;
+
+      background-color:white;
+}
+.head{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+
+}
+.container{
+  display: block ;
+}
+.card-view{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+
+  padding: 10px;
+}

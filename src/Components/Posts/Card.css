@@ -1,0 +1,12 @@
+.ow{
+  overflow-wrap: break-word;
+ word-wrap: break-word;
+ hyphens: auto;
+ display: flex;
+ justify-content:space-between;
+}
+.ow1{
+  overflow-wrap: break-word;
+ word-wrap: break-word;
+ hyphens: auto;
+}
