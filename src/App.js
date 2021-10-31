@@ -82,7 +82,7 @@ const [address,Setaddress] = useState('')
   const onSubmitHandler=(e)=>{
     e.preventDefault()
     toggle()
-    db.collection("contacts").add({
+    db.ref("contacts").set({
       firstName:firstName,
       lastName:lastName,
       email:email,
